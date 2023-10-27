@@ -1,0 +1,12 @@
+Prefix    	Parameter 	Value     	STD       	CI 95% (Low - High)
+examples/demo	D/theta   	0.086080	0.000000	0.086080 - 0.086080
+examples/demo	d/m       	0.097413	0.000000	0.097413 - 0.097413
+examples/demo	delta     	25.1661	0.0000	25.1661 - 25.1661
+examples/demo	nu        	0.048001	0.000000	0.048001 - 0.048001
+examples/demo	nu(in)    	0.034850	0.000000	0.034850 - 0.034850
+examples/demo	homoplasy(normal)	0.007956	0.000000	0.007956 - 0.007956
+examples/demo	homoplasy(div)	0.146320	0.000000	0.146320 - 0.146320
+examples/demo	EventFreq 	0.004155	0.000000	0.004155 - 0.004155
+examples/demo	theta     	0.920742	0.000000	0.920742 - 0.920742
+examples/demo	D         	0.079258	0.000000	0.079258 - 0.079258
+examples/demo	BIC       	245963.24049507605

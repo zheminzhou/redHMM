@@ -1,0 +1,12 @@
+Prefix    	Parameter 	Value     	STD       	CI 95% (Low - High)
+examples/demo	R/theta   	0.032953	0.002923	0.027844 - 0.039053
+examples/demo	r/m       	0.057225	0.024048	0.024661 - 0.113355
+examples/demo	delta     	119.8438	91.8351	20.1362 - 337.4283
+examples/demo	nu        	0.009588	0.001637	0.009365 - 0.013808
+examples/demo	nu(in)    	0.059903	0.003699	0.052233 - 0.066636
+examples/demo	homo(mut) 	0.790900	0.001363	0.019014 - 0.024287
+examples/demo	homo(rec) 	0.585335	0.033423	0.341601 - 0.469961
+examples/demo	EventFreq 	0.003864	0.000384	0.003223 - 0.004681
+examples/demo	theta     	0.968098	0.002736	0.962441 - 0.972915
+examples/demo	R         	0.031902	0.002736	0.027090 - 0.037586
+examples/demo	BIC       	434395.48817017494

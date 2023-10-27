@@ -1,0 +1,34 @@
+#Branch	name	mutationRate	diversifiedRate	MutationCoverage
+#	DiversifiedRegion	seqName	start	end	type	score
+DiversifiedRegion	0	M=3.83551e-03	D=3.29318e-04	B=4512480.000
+	DiversifiedRegion	0	AE017220.1	60991	61105	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	69499	69593	Diversified	1.000
+	DiversifiedRegion	0	AE017220.1	95116	95139	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	290765	290784	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	345597	345697	Diversified	1.000
+	DiversifiedRegion	0	AE017220.1	474894	475966	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	679714	680243	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	844054	844324	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	973532	974238	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	1003513	1003610	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	1524429	1524639	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	1557541	1557606	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	1569343	1569540	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	1644382	1644596	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	1959495	1960189	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	2164069	2164072	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	2390371	2390383	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	2456199	2456211	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	2547639	2547680	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	2903462	2903487	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	3020433	3021452	Homoplastic	1.000
+	DiversifiedRegion	0	AE017220.1	3031535	3031824	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	3205376	3205464	Diversified	1.000
+	DiversifiedRegion	0	AE017220.1	3226079	3226096	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	3442860	3442880	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	3583815	3583914	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	3934228	3934246	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	4327875	4327928	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	4504499	4504616	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	4651541	4651570	Mixed(D+H) 	1.000
+	DiversifiedRegion	0	AE017220.1	4712902	4713169	Mixed(D+H) 	1.000
